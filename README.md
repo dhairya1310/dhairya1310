@@ -9,7 +9,9 @@ Python · SQL · R · Pandas · Scikit-learn · TensorFlow · Tableau · Power B
 
 ## Featured Projects
 - **[Airbnb Anomaly Detection](https://github.com/dhairya1310/Airbnb-Anomaly-Detection)** – Detected outliers in pricing & reviews using Isolation Forest & DBSCAN  
-- **[Macroeconomic Forecasting](https://github.com/dhairya1310/Forecasting-Micro-and-Macro-Economic-Indicators-with-ML)** – Built LSTM models to predict GDP & inflation trends  
+- **[Macroeconomic Forecasting](https://github.com/dhairya1310/Forecasting-Micro-and-Macro-Economic-Indicators-with-ML)** – Built LSTM models to predict GDP & inflation trends
+- **[Telebee - A Movie Streaming Platform](https://github.com/dhairya1310/telebee)** – Built a movie streaming platform using MERN Stack 
+
 
 ## Connect With Me
 📍 Jersey City, NJ  
