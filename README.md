@@ -10,7 +10,6 @@ Python · SQL · R · Pandas · Scikit-learn · TensorFlow · Tableau · Power B
 ## Featured Projects
 - **[Airbnb Anomaly Detection](https://github.com/your-repo-link)** – Detected outliers in pricing & reviews using Isolation Forest & DBSCAN  
 - **[Macroeconomic Forecasting](https://github.com/your-repo-link)** – Built LSTM models to predict GDP & inflation trends  
-- **[ML Research Paper Code](https://github.com/your-repo-link)** – Code behind my published research on macroeconomic modeling
 
 ## Connect With Me
 📍 Jersey City, NJ  
