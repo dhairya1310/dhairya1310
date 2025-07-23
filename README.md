@@ -1,16 +1,18 @@
-## Hi there 👋
+#  Hi, I’m Dhairya Shah
 
-<!--
-**dhairya1310/dhairya1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduate student in Data Science @ Stevens Institute of Technology  
+I work on machine learning, data analysis, and visualization — with tools like Python, SQL, Tableau, and AWS.  
+My projects tackle real-world challenges like anomaly detection, economic forecasting, and NLP research.
 
-Here are some ideas to get you started:
+## 🔧 Tools & Technologies
+Python · SQL · R · Pandas · Scikit-learn · TensorFlow · Tableau · Power BI · AWS · GCP · Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **[Airbnb Anomaly Detection](https://github.com/your-repo-link)** – Detected outliers in pricing & reviews using Isolation Forest & DBSCAN  
+- **[Macroeconomic Forecasting](https://github.com/your-repo-link)** – Built LSTM models to predict GDP & inflation trends  
+- **[ML Research Paper Code](https://github.com/your-repo-link)** – Code behind my published research on macroeconomic modeling
+
+## Connect With Me
+📍 Jersey City, NJ  
+📧 dshah5744@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/dhairya-shah-b00b111b6)
