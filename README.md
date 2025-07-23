@@ -8,8 +8,8 @@ My projects tackle real-world challenges like anomaly detection, economic foreca
 Python · SQL · R · Pandas · Scikit-learn · TensorFlow · Tableau · Power BI · AWS · GCP · Docker
 
 ## Featured Projects
-- **[Airbnb Anomaly Detection](https://github.com/your-repo-link)** – Detected outliers in pricing & reviews using Isolation Forest & DBSCAN  
-- **[Macroeconomic Forecasting](https://github.com/your-repo-link)** – Built LSTM models to predict GDP & inflation trends  
+- **[Airbnb Anomaly Detection](https://github.com/dhairya1310/Airbnb-Anomaly-Detection)** – Detected outliers in pricing & reviews using Isolation Forest & DBSCAN  
+- **[Macroeconomic Forecasting](https://github.com/dhairya1310/Forecasting-Micro-and-Macro-Economic-Indicators-with-ML)** – Built LSTM models to predict GDP & inflation trends  
 
 ## Connect With Me
 📍 Jersey City, NJ  
