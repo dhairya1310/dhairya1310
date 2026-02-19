@@ -10,7 +10,9 @@ Python · SQL · R · Pandas · Scikit-learn · TensorFlow · Tableau · Power B
 ## Featured Projects
 - **[Airbnb Anomaly Detection](https://github.com/dhairya1310/Airbnb-Anomaly-Detection)** – Detected outliers in pricing & reviews using Isolation Forest & DBSCAN  
 - **[Macroeconomic Forecasting](https://github.com/dhairya1310/Forecasting-Micro-and-Macro-Economic-Indicators-with-ML)** – Built LSTM models to predict GDP & inflation trends
-- **[Telebee - A Movie Streaming Platform](https://github.com/dhairya1310/telebee)** – Built a movie streaming platform using MERN Stack 
+- **[Telebee - A Movie Streaming Platform](https://github.com/dhairya1310/telebee)** – Built a movie streaming platform using MERN Stack
+- **[Portfolio Optimization using Reinforcement Learning](https://github.com/dhairya1310/portfolio-optimization-RL)** – Implemented PPO, A2C, and DQN agents to optimize multi-asset portfolios using 30+ years of market data and benchmarked performance against traditional strategies
+- **[Analyzing the Global Luxury Resale Market Data Analysis Visualization](https://github.com/dhairya1310/Analyzing-the-Global-Luxury-Resale-Market-Data-Analysis-Visualization)** – Performed exploratory data analysis and built interactive Tableau dashboards to uncover pricing trends, brand performance, and seller behavior insights in the luxury resale market
 
 
 ## Connect With Me
