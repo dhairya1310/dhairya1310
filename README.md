@@ -1,8 +1,7 @@
 # Hi, I'm Dhairya Shah
 
 M.S. Data Science, Stevens Institute of Technology (2026)
-
-I work across data science, analytics, and data engineering — building ML models,forecasting systems, and dashboards, and migrating data infrastructure to the cloud. Recent work spans cloud data migration (AWS/Azure) for a government client, Power BI sales forecasting at Accenture, and LSTM-based economic forecasting.
+I work across data science, analytics, and data engineering. I build ML models, forecasting systems, and dashboards, and I migrate data infrastructure to the cloud. Recent work includes an AWS/Azure data migration for a government client, Power BI sales forecasting at Accenture, and LSTM-based economic forecasting.
 
 ## 🔧 Tools & Technologies
 Python · SQL · R · Pandas · Scikit-learn · TensorFlow · Tableau · Power BI · AWS · GCP · Docker
@@ -18,6 +17,5 @@ Python · SQL · R · Pandas · Scikit-learn · TensorFlow · Tableau · Power B
 ## Connect With Me
 📍 Jersey City, NJ  
 📧 dshah5744@gmail.com  
-🔗 [Portfolio Website](https://www.dhairya-shah.com)
-
+🔗 [Portfolio Website](https://www.dhairya-shah.com)<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/dhairya-shah-b00b111b6)
