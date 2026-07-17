@@ -1,8 +1,8 @@
-#  Hi, I’m Dhairya Shah
+# Hi, I'm Dhairya Shah
 
-Graduate student in Data Science @ Stevens Institute of Technology  
-I work on machine learning, data analysis, and visualization — with tools like Python, SQL, Tableau, and AWS.  
-My projects tackle real-world challenges like anomaly detection, economic forecasting, and NLP research.
+M.S. Data Science, Stevens Institute of Technology (2026)
+
+I work across data science, analytics, and data engineering — building ML models,forecasting systems, and dashboards, and migrating data infrastructure to the cloud. Recent work spans cloud data migration (AWS/Azure) for a government client, Power BI sales forecasting at Accenture, and LSTM-based economic forecasting.
 
 ## 🔧 Tools & Technologies
 Python · SQL · R · Pandas · Scikit-learn · TensorFlow · Tableau · Power BI · AWS · GCP · Docker
@@ -18,5 +18,6 @@ Python · SQL · R · Pandas · Scikit-learn · TensorFlow · Tableau · Power B
 ## Connect With Me
 📍 Jersey City, NJ  
 📧 dshah5744@gmail.com  
-🔗 [Portfolio Website](https://www.dhairya-shah.com),
+🔗 [Portfolio Website](https://www.dhairya-shah.com)
+
 🔗 [LinkedIn](https://www.linkedin.com/in/dhairya-shah-b00b111b6)
