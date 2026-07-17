@@ -1,6 +1,6 @@
 # Hi, I'm Dhairya Shah
 
-M.S. Data Science, Stevens Institute of Technology (2026)
+M.S. Data Science, Stevens Institute of Technology (2026)<br>
 I work across data science, analytics, and data engineering. I build ML models, forecasting systems, and dashboards, and I migrate data infrastructure to the cloud. Recent work includes an AWS/Azure data migration for a government client, Power BI sales forecasting at Accenture, and LSTM-based economic forecasting.
 
 ## 🔧 Tools & Technologies
