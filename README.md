@@ -15,7 +15,7 @@ Python · SQL · R · Pandas · Scikit-learn · TensorFlow · Tableau · Power B
 
 
 ## Connect With Me
-📍 Jersey City, NJ  
+📍 New York, NY 
 📧 dshah5744@gmail.com  
 🔗 [Portfolio Website](https://www.dhairya-shah.com)<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/dhairya-shah-b00b111b6)
