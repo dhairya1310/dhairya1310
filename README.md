@@ -7,6 +7,7 @@ I work across data science, analytics, and data engineering. I build ML models, 
 Python · SQL · R · Pandas · Scikit-learn · TensorFlow · Tableau · Power BI · AWS · GCP · Docker
 
 ## Featured Projects
+- **[Options Pricing Lab](https://github.com/dhairya1310/options-pricing-lab)** – Built Black-Scholes, binomial tree, and Monte Carlo pricers from scratch and benchmarked them on 8,568 live option contracts; the American tree cut in-the-money put pricing error by 86% to 88% vs Black-Scholes. [Live app](https://options-pricing-lab.streamlit.app/)
 - **[Bank Stress Early Warning System](https://github.com/dhairya1310/bank-stress-early-warning)** – Screened 987 US banks for SVB-style risk using 27 quarters of Call Report data in Python and SQL; all 4 bank failures over $1B since 2023 ranked in the top 12%. [Tableau dashboard](https://public.tableau.com/app/profile/dhairya.shah6508/viz/BankStressEWS/Dashboard)
 - **[Airbnb Anomaly Detection](https://github.com/dhairya1310/Airbnb-Anomaly-Detection)** – Detected outliers in pricing & reviews using Isolation Forest & DBSCAN  
 - **[Forecasting Macro & Micro Economic Indicators with Machine Learning ](https://github.com/dhairya1310/Forecasting-Micro-and-Macro-Economic-Indicators-with-ML)** – Built LSTM models to predict GDP & inflation trends
