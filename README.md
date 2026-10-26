@@ -1,10 +1,12 @@
-# Hi, I'm Dhairya Shah
+# Hi, I am Dhairya Shah
 
-M.S. Data Science, Stevens Institute of Technology (2026)<br>
-I work across data science, analytics, and data engineering. I build ML models, forecasting systems, and dashboards, and I migrate data infrastructure to the cloud. Recent work includes an AWS/Azure data migration for a government client, Power BI sales forecasting at Accenture, and LSTM-based economic forecasting.
+MS in Data Science, Stevens Institute of Technology (2026)
+
+I am a data analyst with a lean toward quantitative finance. I build pipelines, dashboards, and models that turn messy data into decisions people can act on. Recent work includes a bank stress early warning system that screened 987 US banks, an options pricing lab benchmarked on 8,568 live contracts, and Power BI sales forecasting at Accenture.
 
 ## 🔧 Tools & Technologies
-Python · SQL · R · Pandas · Scikit-learn · TensorFlow · Tableau · Power BI · AWS · GCP · Docker
+
+Python · SQL · R · SAS · C++ · Pandas · NumPy · SciPy · Scikit-learn · TensorFlow · Power BI · Tableau · Streamlit · DuckDB · Snowflake · Databricks · AWS · Azure · Git
 
 ## Featured Projects
 - **[Options Pricing Lab](https://github.com/dhairya1310/options-pricing-lab)** – Built Black-Scholes, binomial tree, and Monte Carlo pricers from scratch and benchmarked them on 8,568 live option contracts; the American tree cut in-the-money put pricing error by 86% to 88% vs Black-Scholes. [Live app](https://options-pricing-lab.streamlit.app/)
@@ -19,5 +21,5 @@ Python · SQL · R · Pandas · Scikit-learn · TensorFlow · Tableau · Power B
 ## Connect With Me
 📍 New York, NY <br>
 📧 dshah5744@gmail.com  
-🔗 [Portfolio Website](https://www.dhairya-shah.com)<br>
+🔗 [Portfolio](https://www.dhairya-shah.com)<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/dhairya-shah-b00b111b6)
